@@ -26,7 +26,7 @@ Piscinas naturais que podem ser acessadas com passeios de jangada, sombra dos co
 <br>
  <br>
  <div align="center">
-<img src="https://user-images.githubusercontent.com/98486061/151235664-1103b0f0-8bd0-440e-8100-b1242ec3312a.jpg" width="300px" />
+<img src="https://user-images.githubusercontent.com/98486061/151243681-4d4e21a1-1a92-47c9-bbb7-da03e80403cd.jpg" width="300px" />
 </div> 
  <br>
  <br>
@@ -36,7 +36,7 @@ Piscinas naturais que podem ser acessadas com passeios de jangada, sombra dos co
 “As lagoas de água doce entre as dunas formam um cenário único em todo o mundo e é impossível não se emocionar ao chegar no topo da paisagem e ver a imensidão dos Lençóis Maranhenses“, descreve a editora Monique Renne no guia que escreveu sobre um dos mais lindos destinos do Nordeste. Prepare-se para mergulhos em lagoas paradisíacas, passeios em meio às dunas e um pôr do sol de tirar o fôlego de qualquer um.                                                                                                                   <br>           
 <br>                                                                                                                              
 <div align="center">
-<img src="https://user-images.githubusercontent.com/98486061/151235664-1103b0f0-8bd0-440e-8100-b1242ec3312a.jpg" width="300px" />
+<img src="https://user-images.githubusercontent.com/98486061/151243710-8154f5be-088d-4e7e-894e-9aca3139ad11.jpg" width="300px" />
 </div> 
  <br>
  <br>
@@ -47,7 +47,7 @@ Embora os coqueiros estejam por todos os lados, a culinária seja de deliciosos 
 <br>
 <br>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/98486061/151235664-1103b0f0-8bd0-440e-8100-b1242ec3312a.jpg" width="300px" />
+<img src="https://user-images.githubusercontent.com/98486061/151243729-b01ac022-bf10-4029-907e-7758cebec240.jpg" width="300px" />
 </div> 
  <br>
  <br>                                                                                                                              

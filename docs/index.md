@@ -2,7 +2,7 @@
 
 Olá meu nome é Isabela cristina e estou fazendo curso de Informática pra Intrent no [Senai](https://www.portaldaindustria.com.br/senai/)!!
 <br>
-Como Proposta de uma atividade, devriamos personalizar uma pagina ultilizando o GitHub Pages, pensando nisso desenvolvi uma página mostrando os 4 melhos destinos do Brasil para curtir as melhores férias, afinal de contas quem não gosta de vaijar!? Eu particularmente Amoo!!
+Como Proposta de uma atividade, devriamos personalizar uma página ultilizando o GitHub Pages, pensando nisso desenvolvi uma página mostrando os 4 melhos destinos do Brasil para curtir as melhores férias, afinal de contas quem não gosta de vaijar!? Eu particularmente Amoo!!
 <br>
 <br>
 <div align="center">

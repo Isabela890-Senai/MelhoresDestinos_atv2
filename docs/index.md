@@ -4,6 +4,7 @@ Olá meu nome é Isabela cristina e estou fazendo curso de Informática pra Intr
 <br>
 Como Proposta de uma atividade, devriamos personalizar uma pagina ultilizando o GitHub Pages, pensando nisso desenvolvi uma página mostrando os 4 melhos destinos do Brasil para curtir as melhores férias, afinal de contas quem não gosta de vaijar!? Eu particularmente Amoo!!
 <br>
+<br>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/98486061/151244265-65dcabf4-866c-4120-b833-e20492dced50.jpg" width="300px" />
 </div>
